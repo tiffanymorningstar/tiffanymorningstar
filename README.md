@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Tiffany! 👋
+
+***
+
+#I'm a QA Engineer that has become a Web Developer.  I'm taking my passion for quality in testing, and applying it to developing quality code.
+
+***
+
+## You can take a look at my portfolio [here](https://morningstar-portfolio.netlify.app/)
+
 
 <!--
 **tiffanymorningstar/tiffanymorningstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

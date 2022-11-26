@@ -6,6 +6,11 @@
 
 ***
 
+## My tech Stack:
+HTML5, CSS3, JavaScript, MongoDB, React, Node.JS, Express, Python, Django, Java, Selenium
+
+***
+
 ## You can take a look at my portfolio [here](https://morningstar-portfolio.netlify.app/)
 
 

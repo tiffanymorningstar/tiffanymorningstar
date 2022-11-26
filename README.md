@@ -1,4 +1,5 @@
 ## Hi there, I'm Tiffany! 👋
+***
 
 ## I'm a QA Engineer that has become a Web Developer.  I'm taking my passion for quality in testing, and applying it to developing quality code.
 
